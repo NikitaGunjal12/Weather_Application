@@ -39,4 +39,5 @@ Here are the key features you can highlight for a weather application built usin
  10.Future-Ready Architecture
    - Description: The application is designed with the potential for future enhancements.
    - Details: The codebase is structured in a way that allows for the easy addition of new features, such as a 5-day weather forecast, geolocation-based weather, or integration with other APIs.
+     
 These features can be highlighted when explaining your project in an interview or when documenting your work. They demonstrate your attention to detail, user experience, and technical capabilities.
