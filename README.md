@@ -8,8 +8,8 @@ Here are the key features you can highlight for a weather application built usin
    - Description: Users can search for weather information by entering a city name.
    - Details: The app accepts city names as input and displays the corresponding weather data, making it easy for users to check the weather in any location worldwide.
 
- 3.Responsive Design
-   - Description: The application is designed to be responsive, providing a consistent user experience across different devices (desktops, tablets, and smartphones).
+3.Responsive Design
+- Description: The application is designed to be responsive, providing a consistent user experience across different devices (desktops, tablets, and smartphones).
    - Details: The layout and elements adjust automatically to fit different screen sizes, ensuring accessibility and usability on all devices.
 
  4. User-Friendly Interface
