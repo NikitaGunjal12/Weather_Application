@@ -16,7 +16,7 @@ Here are the key features you can highlight for a weather application built usin
    - Description: The app features a clean, intuitive interface that makes it easy for users to interact with the application.
    - Details: The input field, buttons, and displayed data are well-organized, with clear typography and straightforward navigation.
 
- 5.Error Handling and Notifications
+ 5.Error Handling And Notifications.
    - Description: The application includes error handling to manage issues such as invalid city names or network problems.
    - Details: If a user enters an incorrect city name or if the API request fails, the app provides meaningful error messages, ensuring users understand what went wrong and how to correct it.
 
