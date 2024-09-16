@@ -12,7 +12,7 @@ Here are the key features you can highlight for a weather application built usin
 - Description: The application is designed to be responsive, providing a consistent user experience across different devices (desktops, tablets, and smartphones).
    - Details: The layout and elements adjust automatically to fit different screen sizes, ensuring accessibility and usability on all devices.
 
- 4. User-Friendly Interface
+ 4. User Friendly Interface
    - Description: The app features a clean, intuitive interface that makes it easy for users to interact with the application.
    - Details: The input field, buttons, and displayed data are well-organized, with clear typography and straightforward navigation.
 
