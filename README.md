@@ -1,5 +1,5 @@
 # Weather_Application
-Here are the key features you can highlight for a weather application built using HTML, CSS, and JavaScript:
+Here are the key features you can highlight for a weather application built using HTML, CSS Javascript:
  1.Real-Time Weather Data
    - Description: The application fetches and displays current weather conditions for any specified city in real-time.
    - Details: Users can enter a city name, and the app provides up-to-date information such as temperature, humidity, wind speed, and weather conditions (e.g., clear, cloudy, rainy).
